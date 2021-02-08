@@ -1,6 +1,7 @@
 //ex1 day2
 
-//
+//https://repl.it/@mannydev/ex1-day2#main.cpp
+
 #include <iostream>
 using namespace std;
 
